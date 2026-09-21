@@ -2,13 +2,11 @@
 
 DevOps Engineer focused on secure, multi-cloud infrastructure: CI/CD, infrastructure-as-code, and compliance work built in as part of engineering, not bolted on afterward.
 
-### What I focus on
+### Stack
 
-- Multi-cloud infrastructure design and operations, built for reliability and scale
-- CI/CD pipelines and infrastructure-as-code for fast, repeatable, low-risk deployments
-- Security and compliance work (SOC 2 and similar frameworks), treated as part of engineering
-- Monitoring, logging, and alerting built into systems from the start
-- A data-driven approach to infrastructure decisions, drawing on a background in statistics and data science
+**Cloud & Infrastructure:** AWS · GCP · Azure · Hetzner
+**CI/CD & IaC:** GitHub Actions · Terraform
+**Containers & Orchestration:** Docker · Kubernetes
 
 ### Recently
 
